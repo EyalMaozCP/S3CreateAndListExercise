@@ -364,4 +364,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Rider directory
-.idea/
+.idea/*
